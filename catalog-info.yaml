@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-sonar-terraform-github-repository
+  annotations:
+    github.com/project-slug: ankitapawarphilips/test-sonar-terraform-github-repository
+spec:
+  type: other
+  lifecycle: unknown
